@@ -1,0 +1,3 @@
+/home/adrian/Documents/CP/p4/cmake-build-debug/CMakeFiles/p4.dir
+/home/adrian/Documents/CP/p4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adrian/Documents/CP/p4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
